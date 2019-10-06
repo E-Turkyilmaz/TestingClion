@@ -61,6 +61,7 @@ static char *cardSet[4][4] = {{"*", "*", "*", "*"},
 int p1Pulls, pickedValue = 0;    //  the card that player 1 pulled
 int status = 0;                  //  game status
 static int turn = 0;             //  counter for each turn
+int trigger = 0;                 //  variable to trigger the input readings
 char ans, put;                   //  user inputs
 char* setName = "*";             //  card set that of player 1 pulled
 
