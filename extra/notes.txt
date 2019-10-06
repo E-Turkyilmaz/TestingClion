@@ -1,0 +1,11 @@
+/*
+#define SPADES      "♠"
+#define CLUBS       "♣"
+#define HEARTS      "♥"
+#define DIAMONDS    "♦"
+
+#define SPADES      "\xE2\x99\xA0"
+#define CLUBS       "\xE2\x99\xA3"
+#define HEARTS      "\xE2\x99\xA5"
+#define DIAMONDS    "\xE2\x99\xA6"
+*/

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Egemen/CLionProjects/TestingCLion/definitions.h
+
+/cygdrive/c/Users/Egemen/CLionProjects/TestingCLion/globals.h
+
+/cygdrive/c/Users/Egemen/CLionProjects/TestingCLion/main.c
+stdio.h
+-
+definitions.h
+/cygdrive/c/Users/Egemen/CLionProjects/TestingCLion/definitions.h
+globals.h
+/cygdrive/c/Users/Egemen/CLionProjects/TestingCLion/globals.h
+
