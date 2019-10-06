@@ -77,7 +77,7 @@ int main(){
             }
             else if ((put == 'N') || (put == 'n')) {
                 // set status 1 to exit the loop
-                status = 0;
+                status = 1;
             }
         }
     }

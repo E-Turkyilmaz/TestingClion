@@ -18,3 +18,13 @@ definitions.h
 globals.h
 /cygdrive/c/Users/Egemen/CLionProjects/TestingCLion/globals.h
 
+/cygdrive/c/Users/Egemen/CLionProjects/TestingCLion/pickPosition.c
+stdio.h
+-
+globals.h
+/cygdrive/c/Users/Egemen/CLionProjects/TestingCLion/globals.h
+
+/cygdrive/c/Users/Egemen/CLionProjects/TestingCLion/printTable.c
+stdio.h
+-
+
