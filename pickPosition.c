@@ -23,4 +23,4 @@ void pickPosition(){
         printf("\nError!\n->The position you chose was invalid.\n->Pick another one.\n");
         return pickPosition();
     }
-}
+};
